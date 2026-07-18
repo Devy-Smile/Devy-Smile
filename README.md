@@ -2,6 +2,8 @@
 ![GitHub Stats](https://github-readme-stats-fast-4iql.vercel.app/api/streak?username=Devy-Smile&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast-4iql.vercel.app/api/top-langs/?username=Devy-Smile&layout=compact&theme=github_dark)
 
+started to do something on 12/Jul/2026 actually
+
 ---
 <details>
 <summary>About me in English</summary>
