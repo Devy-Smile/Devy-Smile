@@ -58,13 +58,13 @@ Feel free to reach out — for sharing ideas, development, spam, or even scam em
 ## 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=round-square&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=round-square&logo=unrealengine&logoColor=white" alt="Unreal Engine">
 </p>
 
 <p>
-  <img src="https://custom-icon-badges.demolab.com/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-68217A?style=round-square&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Claude-D97757?style=round-square&logo=claudecode&logoColor=white" alt="**Claude**">
-  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=black" alt="ChatGPT">
+  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-000000?style=round-square&logo=openai&logoColor=black" alt="ChatGPT">
 </p>
 
 <p>
