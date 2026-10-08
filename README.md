@@ -1,7 +1,7 @@
 # 🤓 Hi there
-Hi, I am Smiley, a indie dev.
-I mainly working on game development.
-and love playing games.
+Hi, I am Smiley, a wannabe indie dev.
+
+I am mainly working on game development currently. Of course, also love playing games.
 
 # 🛠️Tech Stack
 <p>
@@ -17,4 +17,4 @@ and love playing games.
 
 
  # There's nothing left to show
- goodbye🤓
+ see ya later 🤓
